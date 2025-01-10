@@ -1,5 +1,5 @@
-## Suffering
-<img src="https://steamuserimages-a.akamaihd.net/ugc/768274826778090906/C6C0CB9EA3AF09C5FEEE9531CF43637DCE932001/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+## Fixing practical problems
+<img src="[https://steamuserimages-a.akamaihd.net/ugc/768274826778090906/C6C0CB9EA3AF09C5FEEE9531CF43637DCE932001/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false](https://steamuserimages-a.akamaihd.net/ugc/2308722341881872151/F2530A592ABC98ECF84F1B4284BD65327B66BC0A/?imw=512&imh=307&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)">
 <!--
 **GermanOjeda/GermanOjeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
